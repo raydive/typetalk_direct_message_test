@@ -1,0 +1,2 @@
+# typetalk_direct_message_test
+typetalkのDMをJavaで実現するためにはどうするかを確認するためのプログラムです。
